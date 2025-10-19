@@ -212,6 +212,4 @@ curl -X POST "https://<your-service>.onrender.com/recommend"   -H "Content-Type:
 
 Choose a license that suits the intended use (e.g., MIT, Apache-2.0). Add a `LICENSE` file at repo root.
 # SehajdeepSingh_102216117
-# SehajdeepSingh_102216117
-# SehajdeepSingh_102216117
-# SehajdeepSingh_102216117
+
